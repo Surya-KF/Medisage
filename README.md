@@ -1,6 +1,6 @@
-# Langchain Medicine Assistant
+# MEDISAGE 
 
-Langchain Medicine Assistant is a Python application that utilizes OpenAI's GPT-3.5 Turbo model to provide detailed information about medicines and diseases. It allows users to input the name of a medicine, disease, or condition and receive comprehensive descriptions about it, including active ingredients, dosage, indications, contraindications, warnings, side effects, cost, instructions for use, and manufacturer information. Additionally, the application supports multiple languages, including English, Hindi, and Nepali. It also features image recognition capabilities using pytesseract to extract text from medicine packet images.
+MEDISAGE is a medical assistant Python application that utilizes OpenAI's GPT-3.5 Turbo model to provide detailed information about medicines and diseases. It allows users to input the name of a medicine, disease, or condition and receive comprehensive descriptions about it, including active ingredients, dosage, indications, contraindications, warnings, side effects, cost, instructions for use, and manufacturer information. Additionally, the application supports multiple languages, including English, Hindi, and Nepali. It also features image recognition capabilities using pytesseract to extract text from medicine packet images.
 
 ## Features
 - Provides detailed information about medicines and diseases using OpenAI's GPT-3.5 Turbo model
